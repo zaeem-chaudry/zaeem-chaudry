@@ -1,70 +1,122 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Zaeem%20ul%20Islam&fontSize=70&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%94%20AI%20%26%20ML%20Systems&descSize=22&descAlignY=60&descColor=a8c8ff" />
+
 <div align="center">
 
-# Zaeem ul Islam
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+production+RAG+%26+LLM+systems;PyTorch+models+%E2%86%92+explainability+%E2%86%92+SSRN+paper;Two+client+systems+solo-built+%26+live+in+production;Open+to+remote+SWE+%2F+ML+Engineer+roles)](https://git.io/typing-svg)
 
-**Software Engineer — AI & ML Systems**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-zaeem--chaudry-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zaeem-chaudry)
-[![Email](https://img.shields.io/badge/Email-business.zaeemsajid@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:business.zaeemsajid@gmail.com)
-[![Location](https://img.shields.io/badge/Lahore%2C%20Pakistan-Open%20to%20Remote-4CAF50?style=flat-square)](https://github.com/zaeem-chaudry)
+![Profile Views](https://komarev.com/ghpvc/?username=zaeem-chaudry&color=58a6ff&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-AI/ML-focused software engineer who ships production systems. Two client systems solo-delivered from architecture through deployment, both live in production. Recent BS in Data Science from FAST-NUCES (2026), with published research in explainable AI.
+I ship production AI systems — **multi-tenant RAG platforms**, **multi-agent pipelines**, and **PyTorch computer vision models**.
+Two client systems solo-built from architecture to deployment, both live today.
+Recent BS in Data Science, FAST-NUCES Lahore (2026) · Paper submitted to **SSRN**.
 
-## What I Build
+📍 Lahore, Pakistan &nbsp;·&nbsp; 🌐 Open to **remote roles (US + global)**
 
-- **Production LLM systems** — multi-tenant RAG chatbots, multi-agent pipelines, vector-store retrieval at scale
-- **Computer vision + XAI** — PyTorch model architectures, explainability suites, video understanding
-- **Backend APIs** — FastAPI / Flask at production scale, multi-service Nginx deployments
-- **Data pipelines** — PySpark on AWS EMR at tens-of-millions-of-record scale
+---
 
-## Tech Stack
+## ⚡ What I Build
 
-**ML / AI**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+<table>
+<tr>
+<td width="50%">
 
-**LLM / GenAI**
-![LangChain](https://img.shields.io/badge/LangChain-00A878?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+🤖 **LLM / RAG Systems**
+Multi-tenant chatbot SaaS, per-tenant vector-store isolation, multi-agent content pipelines
 
-**Backend / Data**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+</td>
+<td width="50%">
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+🔬 **Computer Vision + XAI**
+PyTorch late-fusion architectures, 10-method explainability suites, dash-cam crash detection
 
-## Featured Work
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+🔧 **Production Backends**
+FastAPI / Flask at scale, multi-service Nginx deployments, Docker on AWS
+
+</td>
+<td width="50%">
+
+📊 **Data Pipelines**
+PySpark on AWS EMR at 18M+ record scale, ML analytics, automated ingestion
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+[![Python](https://skillicons.dev/icons?i=python,typescript,js)](https://skillicons.dev)
+
+**ML / AI / GenAI**
+
+[![ML](https://skillicons.dev/icons?i=pytorch,opencv,sklearn)](https://skillicons.dev)
+
+`RAG` &nbsp; `LangChain` &nbsp; `Multi-Agent` &nbsp; `OpenAI API` &nbsp; `Gemini API` &nbsp; `ChromaDB` &nbsp; `FAISS` &nbsp; `Pinecone` &nbsp; `Sentence-Transformers`
+
+**Backend / Frontend / Data**
+
+[![Backend](https://skillicons.dev/icons?i=fastapi,flask,react,nextjs,postgres)](https://skillicons.dev)
+
+**Cloud & DevOps**
+
+[![Cloud](https://skillicons.dev/icons?i=aws,docker,nginx,linux,git)](https://skillicons.dev)
+
+---
+
+## 🚀 Featured Work
+
+<div align="center">
+
+[![explaincrash](https://github-readme-stats.vercel.app/api/pin/?username=zaeem-chaudry&repo=explaincrash&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/zaeem-chaudry/explaincrash)
+&nbsp;
+[![sentiment](https://github-readme-stats.vercel.app/api/pin/?username=zaeem-chaudry&repo=Twitter-Sentiment-Analysis-Using-Pyspark-in-Big-Data&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/zaeem-chaudry/Twitter-Sentiment-Analysis-Using-Pyspark-in-Big-Data)
+
+</div>
+
+<br/>
+
+**Client Work @ Wesolvd** &nbsp;*(code available on request)*
 
 | Project | What it is | Stack |
 |---|---|---|
-| [ExplAIn Crash](https://github.com/zaeem-chaudry/explaincrash) | Two-stream PyTorch crash detector (ResNet-50 + Temporal Transformer + YOLOv8n, ~31M params) with a 10-method XAI suite. Grade A FYP; paper on SSRN. | PyTorch · YOLOv8n · Flask |
-| **LeadsRep ChatBot** *(Wesolvd — production)* | Solo-built multi-tenant RAG SaaS live at leadsrep.co — hand-rolled RAG pipeline, per-tenant ChromaDB isolation, embeddable widget, 90-route FastAPI backend, 3 frontends | FastAPI · ChromaDB · Next.js · Docker |
-| [Distributed Sentiment Pipeline](https://github.com/zaeem-chaudry/Twitter-Sentiment-Analysis-Using-Pyspark-in-Big-Data) | 18.6M-tweet PySpark/EMR batch pipeline. Weak supervision + TF-IDF Naive Bayes classifier, 79.6% accuracy. Tested Python package. | PySpark · AWS EMR · Spark MLlib |
-| **AI Content Refinement** *(multi-agent)* | Engineer / Creator / Evaluator agent pipeline with RAG over Pinecone, orchestrated via n8n | LangChain · Pinecone · n8n |
-
-## Currently
-
-- Open to **remote SWE / ML Engineer roles** (US companies and Pakistani market)
-- Building AI systems at **Wesolvd**, Lahore
+| 🤖 **LeadsRep ChatBot** | Multi-tenant RAG SaaS live at [leadsrep.co](https://leadsrep.co) — hand-rolled RAG pipeline, per-tenant ChromaDB isolation, embeddable widget, 90-route FastAPI backend | FastAPI · ChromaDB · Next.js · Docker |
+| 🏪 **KataLog (Inventory Planner)** | Multi-store Shopify inventory platform — replenishment forecasting, lost-sales engine, cross-store mirroring microservice · [warehousekatalog.com](https://warehousekatalog.com) | FastAPI · React 19 · Shopify API |
+| 🧠 **AI Content Refinement** | Multi-agent pipeline (Engineer / Creator / Evaluator) with RAG over Pinecone, orchestrated via n8n | LangChain · Pinecone · n8n |
 
 ---
 
+## 📈 GitHub Stats
+
 <div align="center">
-<sub>BS Data Science · FAST-NUCES · 2026</sub>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=zaeem-chaudry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+&nbsp;
+<img height="165" src="https://streak-stats.demolab.com?user=zaeem-chaudry&theme=tokyonight&hide_border=true" />
+
 </div>
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zaeem%20ul%20Islam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zaeem-chaudry)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-business.zaeemsajid%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:business.zaeemsajid@gmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
