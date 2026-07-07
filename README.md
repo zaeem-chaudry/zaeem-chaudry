@@ -1,8 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Zaeem%20ul%20Islam&fontSize=70&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%94%20AI%20%26%20ML%20Systems&descSize=22&descAlignY=60&descColor=a8c8ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+production+RAG+%26+LLM+systems;PyTorch+models+%E2%86%92+explainability+%E2%86%92+SSRN+paper;Two+client+systems+solo-built+%26+live+in+production;Open+to+remote+SWE+%2F+ML+Engineer+roles)](https://git.io/typing-svg)
+<h1>Zaeem ul Islam</h1>
+<h3>Software Engineer — AI & ML Systems</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+production+RAG+%26+LLM+systems;PyTorch+models+%E2%86%92+XAI+%E2%86%92+SSRN+paper;Two+client+systems+solo-built+%26+live+in+production;Open+to+remote+SWE+%2F+ML+Engineer+roles)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zaeem-chaudry&color=58a6ff&style=flat-square&label=Profile+Views)
 
@@ -12,7 +15,7 @@
 
 I ship production AI systems — **multi-tenant RAG platforms**, **multi-agent pipelines**, and **PyTorch computer vision models**.
 Two client systems solo-built from architecture to deployment, both live today.
-Recent BS in Data Science, FAST-NUCES Lahore (2026) · Paper submitted to **SSRN**.
+Recent BS in Data Science, FAST-NUCES Lahore (2026) · Paper published to **SSRN**.
 
 📍 Lahore, Pakistan &nbsp;·&nbsp; 🌐 Open to **remote roles (US + global)**
 
@@ -57,15 +60,15 @@ PySpark on AWS EMR at 18M+ record scale, ML analytics, automated ingestion
 
 **Languages**
 
-[![Python](https://skillicons.dev/icons?i=python,typescript,js)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,typescript,js)](https://skillicons.dev)
 
-**ML / AI / GenAI**
+**ML / AI**
 
 [![ML](https://skillicons.dev/icons?i=pytorch,opencv,sklearn)](https://skillicons.dev)
 
-`RAG` &nbsp; `LangChain` &nbsp; `Multi-Agent` &nbsp; `OpenAI API` &nbsp; `Gemini API` &nbsp; `ChromaDB` &nbsp; `FAISS` &nbsp; `Pinecone` &nbsp; `Sentence-Transformers`
+`RAG` &nbsp;·&nbsp; `LangChain` &nbsp;·&nbsp; `Multi-Agent` &nbsp;·&nbsp; `OpenAI API` &nbsp;·&nbsp; `Gemini API` &nbsp;·&nbsp; `ChromaDB` &nbsp;·&nbsp; `FAISS` &nbsp;·&nbsp; `Pinecone` &nbsp;·&nbsp; `Sentence-Transformers`
 
-**Backend / Frontend / Data**
+**Backend / Frontend**
 
 [![Backend](https://skillicons.dev/icons?i=fastapi,flask,react,nextjs,postgres)](https://skillicons.dev)
 
@@ -79,21 +82,37 @@ PySpark on AWS EMR at 18M+ record scale, ML analytics, automated ingestion
 
 <div align="center">
 
-[![explaincrash](https://github-readme-stats.vercel.app/api/pin/?username=zaeem-chaudry&repo=explaincrash&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/zaeem-chaudry/explaincrash)
+[![explaincrash](https://github-readme-stats.vercel.app/api/pin/?username=zaeem-chaudry&repo=explaincrash&theme=tokyonight&hide_border=true)](https://github.com/zaeem-chaudry/explaincrash)
 &nbsp;
-[![sentiment](https://github-readme-stats.vercel.app/api/pin/?username=zaeem-chaudry&repo=Twitter-Sentiment-Analysis-Using-Pyspark-in-Big-Data&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/zaeem-chaudry/Twitter-Sentiment-Analysis-Using-Pyspark-in-Big-Data)
+[![sentiment](https://github-readme-stats.vercel.app/api/pin/?username=zaeem-chaudry&repo=Twitter-Sentiment-Analysis-Using-Pyspark-in-Big-Data&theme=tokyonight&hide_border=true)](https://github.com/zaeem-chaudry/Twitter-Sentiment-Analysis-Using-Pyspark-in-Big-Data)
 
 </div>
 
 <br/>
 
-**Client Work @ Wesolvd** &nbsp;*(code available on request)*
+**Client Work @ Wesolvd** *(code available on request)*
 
 | Project | What it is | Stack |
 |---|---|---|
 | 🤖 **LeadsRep ChatBot** | Multi-tenant RAG SaaS live at [leadsrep.co](https://leadsrep.co) — hand-rolled RAG pipeline, per-tenant ChromaDB isolation, embeddable widget, 90-route FastAPI backend | FastAPI · ChromaDB · Next.js · Docker |
-| 🏪 **KataLog (Inventory Planner)** | Multi-store Shopify inventory platform — replenishment forecasting, lost-sales engine, cross-store mirroring microservice · [warehousekatalog.com](https://warehousekatalog.com) | FastAPI · React 19 · Shopify API |
+| 🏪 **KataLog (Inventory Planner)** | Multi-store Shopify inventory platform — replenishment forecasting, cross-store mirroring microservice · [warehousekatalog.com](https://warehousekatalog.com) | FastAPI · React 19 · Shopify API |
 | 🧠 **AI Content Refinement** | Multi-agent pipeline (Engineer / Creator / Evaluator) with RAG over Pinecone, orchestrated via n8n | LangChain · Pinecone · n8n |
+
+---
+
+## 📊 Contribution Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zaeem-chaudry&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaeem-chaudry/zaeem-chaudry/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zaeem-chaudry/zaeem-chaudry/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/zaeem-chaudry/zaeem-chaudry/output/github-snake-dark.svg" />
+</picture>
+
+</div>
 
 ---
 
@@ -119,4 +138,4 @@ PySpark on AWS EMR at 18M+ record scale, ML analytics, automated ingestion
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" />
