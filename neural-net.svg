@@ -21,10 +21,10 @@
   .n3{fill:#0d1117;stroke:#79c0ff;stroke-width:1.8;animation:sp 2.5s ease-in-out infinite}
   .n4{fill:#0d1117;stroke:#56d364;stroke-width:1.8;animation:sp 2.5s ease-in-out infinite}
   .n5{fill:#0d1117;stroke:#7ee787;stroke-width:1.8;animation:sp 2.5s ease-in-out infinite}
-  .lbl{font-family:'Courier New',monospace;font-size:8.5px;fill:#30363d;text-anchor:middle}
-  .ann{font-family:'Courier New',monospace;font-size:7.5px;fill:#21262d;text-anchor:middle}
-  .tag{font-family:'Courier New',monospace;font-size:8px;fill:#21262d;text-anchor:end}
-  .eq{font-family:'Courier New',monospace;font-size:7px;fill:#1f2937;text-anchor:middle}
+  .lbl{font-family:'Courier New',monospace;font-size:8.5px;fill:#8b949e;text-anchor:middle}
+  .ann{font-family:'Courier New',monospace;font-size:7.5px;fill:#6e7681;text-anchor:middle}
+  .tag{font-family:'Courier New',monospace;font-size:8px;fill:#6e7681;text-anchor:end}
+  .eq{font-family:'Courier New',monospace;font-size:7px;fill:#6e7681;text-anchor:middle}
 </style></defs>
 
 <!-- BACKGROUND -->
@@ -269,6 +269,6 @@
 
 <!-- ═══ LOSS CURVE ═══ -->
 <rect x="12" y="178" width="52" height="30" fill="#0d1117" stroke="#1f2937" stroke-width=".6"/>
-<text font-family="'Courier New',monospace" font-size="6.5" fill="#30363d" x="16" y="188">loss ↓</text>
+<text font-family="'Courier New',monospace" font-size="6.5" fill="#6e7681" x="16" y="188">loss ↓</text>
 <polyline points="16,204 22,201 28,197 34,194 40,193 46,191 52,190 58,189" stroke="#7ee787" stroke-width="1" fill="none" opacity=".6"/>
 </svg>

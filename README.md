@@ -17,7 +17,7 @@ I ship production AI systems — **multi-tenant RAG platforms**, **multi-agent p
 Two client systems solo-built from architecture to deployment, both live today.
 Recent BS in Data Science, FAST-NUCES Lahore (2026) · Paper published to **SSRN**.
 
-`📍 Lahore, Pakistan` &nbsp;·&nbsp; `Open to remote roles (US + global)`
+`📍 Lahore, Pakistan` &nbsp;·&nbsp; `Open to remote & on-site roles`
 
 ---
 
@@ -62,6 +62,8 @@ PySpark on AWS EMR at 18M+ record scale, ML analytics, automated ingestion
 
 [![Languages](https://skillicons.dev/icons?i=python,typescript,js)](https://skillicons.dev)
 
+`Python` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `JavaScript`
+
 **ML / AI**
 
 [![ML](https://skillicons.dev/icons?i=pytorch,opencv,sklearn)](https://skillicons.dev)
@@ -72,9 +74,13 @@ PySpark on AWS EMR at 18M+ record scale, ML analytics, automated ingestion
 
 [![Backend](https://skillicons.dev/icons?i=fastapi,flask,react,nextjs,postgres)](https://skillicons.dev)
 
+`FastAPI` &nbsp;·&nbsp; `Flask` &nbsp;·&nbsp; `React` &nbsp;·&nbsp; `Next.js` &nbsp;·&nbsp; `PostgreSQL`
+
 **Cloud & DevOps**
 
 [![Cloud](https://skillicons.dev/icons?i=aws,docker,nginx,linux,git)](https://skillicons.dev)
+
+`AWS` &nbsp;·&nbsp; `Docker` &nbsp;·&nbsp; `Nginx` &nbsp;·&nbsp; `Linux` &nbsp;·&nbsp; `Git`
 
 ---
 
