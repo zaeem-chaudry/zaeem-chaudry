@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="140" viewBox="0 0 400 140">
+<defs>
+  <style>
+    @keyframes pulse{0%,100%{opacity:.5}50%{opacity:1}}
+    .dot{animation:pulse 2s ease-in-out infinite}
+  </style>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#161b22"/>
+    <stop offset="100%" stop-color="#0d1117"/>
+  </linearGradient>
+  <clipPath id="r"><rect width="400" height="140" rx="8"/></clipPath>
+</defs>
+<g clip-path="url(#r)">
+  <!-- Background -->
+  <rect width="400" height="140" fill="url(#bg)"/>
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="4" height="140" fill="#EE4C2C"/>
+  <!-- Border -->
+  <rect width="400" height="140" rx="8" fill="none" stroke="#21262d" stroke-width="1"/>
+
+  <!-- PyTorch logo hint (small circles top-right) -->
+  <circle cx="374" cy="22" r="3" fill="#EE4C2C" class="dot" style="animation-delay:0s"/>
+  <circle cx="385" cy="22" r="3" fill="#EE4C2C" class="dot" style="animation-delay:.4s"/>
+  <circle cx="379" cy="30" r="3" fill="#EE4C2C" class="dot" style="animation-delay:.8s"/>
+
+  <!-- Repo icon -->
+  <text font-family="monospace" font-size="11" fill="#58a6ff" x="18" y="28">⟁</text>
+
+  <!-- Title -->
+  <text font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-weight="600" font-size="16" fill="#e6edf3" x="18" y="52">ExplAIn Crash</text>
+
+  <!-- Description -->
+  <text font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" fill="#8b949e" x="18" y="72">PyTorch crash-detection model with 10-method XAI suite.</text>
+  <text font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" fill="#8b949e" x="18" y="88">YOLOv8n · late-fusion · AUC 0.726 · SSRN paper.</text>
+
+  <!-- Divider -->
+  <line x1="18" y1="100" x2="382" y2="100" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Tags -->
+  <rect x="18" y="110" width="52" height="18" rx="4" fill="#1c2128" stroke="#30363d" stroke-width="1"/>
+  <text font-family="monospace" font-size="10" fill="#EE4C2C" x="44" y="123" text-anchor="middle">PyTorch</text>
+
+  <rect x="78" y="110" width="54" height="18" rx="4" fill="#1c2128" stroke="#30363d" stroke-width="1"/>
+  <text font-family="monospace" font-size="10" fill="#79c0ff" x="105" y="123" text-anchor="middle">YOLOv8n</text>
+
+  <rect x="140" y="110" width="38" height="18" rx="4" fill="#1c2128" stroke="#30363d" stroke-width="1"/>
+  <text font-family="monospace" font-size="10" fill="#7ee787" x="159" y="123" text-anchor="middle">Flask</text>
+
+  <rect x="186" y="110" width="30" height="18" rx="4" fill="#1c2128" stroke="#30363d" stroke-width="1"/>
+  <text font-family="monospace" font-size="10" fill="#d2a8ff" x="201" y="123" text-anchor="middle">XAI</text>
+
+  <!-- Stars / language indicator -->
+  <text font-family="monospace" font-size="10" fill="#30363d" x="382" y="123" text-anchor="end">Python · FYP</text>
+</g>
+</svg>

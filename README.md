@@ -82,9 +82,9 @@ PySpark on AWS EMR at 18M+ record scale, ML analytics, automated ingestion
 
 <div align="center">
 
-[![explaincrash](https://github-readme-stats.vercel.app/api/pin/?username=zaeem-chaudry&repo=explaincrash&theme=tokyonight&hide_border=true)](https://github.com/zaeem-chaudry/explaincrash)
+<a href="https://github.com/zaeem-chaudry/explaincrash"><img src="card-explaincrash.svg" width="48%" /></a>
 &nbsp;
-[![sentiment](https://github-readme-stats.vercel.app/api/pin/?username=zaeem-chaudry&repo=Twitter-Sentiment-Analysis-Using-Pyspark-in-Big-Data&theme=tokyonight&hide_border=true)](https://github.com/zaeem-chaudry/Twitter-Sentiment-Analysis-Using-Pyspark-in-Big-Data)
+<a href="https://github.com/zaeem-chaudry/Twitter-Sentiment-Analysis-Using-Pyspark-in-Big-Data"><img src="card-sentiment.svg" width="48%" /></a>
 
 </div>
 
