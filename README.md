@@ -1,11 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header" />
-
 <div align="center">
 
-<h1>Zaeem ul Islam</h1>
-<h3>Software Engineer — AI & ML Systems</h3>
+<img width="100%" src="neural-net.svg" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+production+RAG+%26+LLM+systems;PyTorch+models+%E2%86%92+XAI+%E2%86%92+SSRN+paper;Two+client+systems+solo-built+%26+live+in+production;Open+to+remote+SWE+%2F+ML+Engineer+roles)](https://git.io/typing-svg)
+<h1>Zaeem ul Islam</h1>
+<h3>Software Engineer &mdash; AI &amp; ML Systems</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1500&color=58A6FF&center=true&vCenter=true&width=650&lines=%3E%3E%3E+model+%3D+MLEngineer(%22Zaeem%22);%3E%3E%3E+model.skills+%3D+%5BRAG%2C+PyTorch%2C+FastAPI%2C+...%5D;%3E%3E%3E+model.ship(solo_projects%3D2%2C+env%3D%22prod%22);%3E%3E%3E+open_to(%22remote+SWE+%2F+ML+roles%22))](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zaeem-chaudry&color=58a6ff&style=flat-square&label=Profile+Views)
 
@@ -17,23 +17,23 @@ I ship production AI systems — **multi-tenant RAG platforms**, **multi-agent p
 Two client systems solo-built from architecture to deployment, both live today.
 Recent BS in Data Science, FAST-NUCES Lahore (2026) · Paper published to **SSRN**.
 
-📍 Lahore, Pakistan &nbsp;·&nbsp; 🌐 Open to **remote roles (US + global)**
+`📍 Lahore, Pakistan` &nbsp;·&nbsp; `Open to remote roles (US + global)`
 
 ---
 
-## ⚡ What I Build
+## ▸ What I Build
 
 <table>
 <tr>
 <td width="50%">
 
-🤖 **LLM / RAG Systems**
+**LLM / RAG Systems**
 Multi-tenant chatbot SaaS, per-tenant vector-store isolation, multi-agent content pipelines
 
 </td>
 <td width="50%">
 
-🔬 **Computer Vision + XAI**
+**Computer Vision + XAI**
 PyTorch late-fusion architectures, 10-method explainability suites, dash-cam crash detection
 
 </td>
@@ -41,13 +41,13 @@ PyTorch late-fusion architectures, 10-method explainability suites, dash-cam cra
 <tr>
 <td width="50%">
 
-🔧 **Production Backends**
+**Production Backends**
 FastAPI / Flask at scale, multi-service Nginx deployments, Docker on AWS
 
 </td>
 <td width="50%">
 
-📊 **Data Pipelines**
+**Data Pipelines**
 PySpark on AWS EMR at 18M+ record scale, ML analytics, automated ingestion
 
 </td>
@@ -56,7 +56,7 @@ PySpark on AWS EMR at 18M+ record scale, ML analytics, automated ingestion
 
 ---
 
-## 🛠 Tech Stack
+## ▸ Tech Stack
 
 **Languages**
 
@@ -78,7 +78,7 @@ PySpark on AWS EMR at 18M+ record scale, ML analytics, automated ingestion
 
 ---
 
-## 🚀 Featured Work
+## ▸ Featured Work
 
 <div align="center">
 
@@ -94,13 +94,13 @@ PySpark on AWS EMR at 18M+ record scale, ML analytics, automated ingestion
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🤖 **LeadsRep ChatBot** | Multi-tenant RAG SaaS live at [leadsrep.co](https://leadsrep.co) — hand-rolled RAG pipeline, per-tenant ChromaDB isolation, embeddable widget, 90-route FastAPI backend | FastAPI · ChromaDB · Next.js · Docker |
-| 🏪 **KataLog (Inventory Planner)** | Multi-store Shopify inventory platform — replenishment forecasting, cross-store mirroring microservice · [warehousekatalog.com](https://warehousekatalog.com) | FastAPI · React 19 · Shopify API |
-| 🧠 **AI Content Refinement** | Multi-agent pipeline (Engineer / Creator / Evaluator) with RAG over Pinecone, orchestrated via n8n | LangChain · Pinecone · n8n |
+| **LeadsRep ChatBot** | Multi-tenant RAG SaaS live at [leadsrep.co](https://leadsrep.co) — hand-rolled RAG pipeline, per-tenant ChromaDB isolation, embeddable widget, 90-route FastAPI backend | FastAPI · ChromaDB · Next.js · Docker |
+| **KataLog (Inventory Planner)** | Multi-store Shopify inventory platform — replenishment forecasting, cross-store mirroring microservice · [warehousekatalog.com](https://warehousekatalog.com) | FastAPI · React 19 · Shopify API |
+| **AI Content Refinement** | Multi-agent pipeline (Engineer / Creator / Evaluator) with RAG over Pinecone, orchestrated via n8n | LangChain · Pinecone · n8n |
 
 ---
 
-## 📊 Contribution Activity
+## ▸ Contribution Activity
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zaeem-chaudry&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 
@@ -116,7 +116,7 @@ PySpark on AWS EMR at 18M+ record scale, ML analytics, automated ingestion
 
 ---
 
-## 📈 GitHub Stats
+## ▸ GitHub Stats
 
 <div align="center">
 
@@ -128,7 +128,7 @@ PySpark on AWS EMR at 18M+ record scale, ML analytics, automated ingestion
 
 ---
 
-## 🤝 Connect
+## ▸ Connect
 
 <div align="center">
 
@@ -136,6 +136,7 @@ PySpark on AWS EMR at 18M+ record scale, ML analytics, automated ingestion
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-business.zaeemsajid%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:business.zaeemsajid@gmail.com)
 
-</div>
+<br/><br/>
+<code>───────────────── [ EOF ] ─────────────────</code>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" />
+</div>

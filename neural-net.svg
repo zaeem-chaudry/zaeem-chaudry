@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 900 185">
+  <defs>
+    <style>
+      @keyframes flow { from { stroke-dashoffset: 0 } to { stroke-dashoffset: -100 } }
+      @keyframes pr { 0%,100% { stroke-opacity: .15 } 50% { stroke-opacity: 1 } }
+      @keyframes pb { 0%,100% { stroke-opacity: .15 } 50% { stroke-opacity: 1 } }
+      @keyframes pg { 0%,100% { stroke-opacity: .15 } 50% { stroke-opacity: 1 } }
+      .e  { stroke: #1f2937; stroke-width: .8; fill: none }
+      .si { stroke: #ff7b72; stroke-width: 1.8; fill: none; stroke-dasharray: 4 96; stroke-linecap: round }
+      .sh { stroke: #58a6ff; stroke-width: 1.8; fill: none; stroke-dasharray: 4 96; stroke-linecap: round }
+      .ni { fill: #0d1117; stroke: #ff7b72; stroke-width: 1.8; animation: pr 2.5s ease-in-out infinite }
+      .nh { fill: #0d1117; stroke: #58a6ff; stroke-width: 1.8; animation: pb 2.5s ease-in-out infinite }
+      .no { fill: #0d1117; stroke: #7ee787; stroke-width: 1.8; animation: pg 2.5s ease-in-out infinite }
+      .lbl { font-family: 'Courier New', monospace; font-size: 9px; fill: #30363d; text-anchor: middle }
+      .ann { font-family: 'Courier New', monospace; font-size: 9px; fill: #21262d; text-anchor: middle }
+      .tag { font-family: 'Courier New', monospace; font-size: 9px; fill: #21262d; text-anchor: end }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect width="900" height="185" fill="#0d1117"/>
+  <line x1="0" y1=".5"   x2="900" y2=".5"   stroke="#161b22" stroke-width="1"/>
+  <line x1="0" y1="184.5" x2="900" y2="184.5" stroke="#161b22" stroke-width="1"/>
+
+  <!-- subtle grid -->
+  <line x1="0" y1="46"  x2="900" y2="46"  stroke="#161b22" stroke-width=".4" stroke-dasharray="2 14"/>
+  <line x1="0" y1="92"  x2="900" y2="92"  stroke="#161b22" stroke-width=".4" stroke-dasharray="2 14"/>
+  <line x1="0" y1="138" x2="900" y2="138" stroke="#161b22" stroke-width=".4" stroke-dasharray="2 14"/>
+  <line x1="150" y1="0" x2="150" y2="185" stroke="#161b22" stroke-width=".4" stroke-dasharray="2 14"/>
+  <line x1="450" y1="0" x2="450" y2="185" stroke="#161b22" stroke-width=".4" stroke-dasharray="2 14"/>
+  <line x1="750" y1="0" x2="750" y2="185" stroke="#161b22" stroke-width=".4" stroke-dasharray="2 14"/>
+
+  <!-- ── BASE EDGES: input → hidden ── -->
+  <line class="e" x1="130" y1="47"  x2="450" y2="25"/>
+  <line class="e" x1="130" y1="47"  x2="450" y2="70"/>
+  <line class="e" x1="130" y1="47"  x2="450" y2="115"/>
+  <line class="e" x1="130" y1="47"  x2="450" y2="158"/>
+  <line class="e" x1="130" y1="92"  x2="450" y2="25"/>
+  <line class="e" x1="130" y1="92"  x2="450" y2="70"/>
+  <line class="e" x1="130" y1="92"  x2="450" y2="115"/>
+  <line class="e" x1="130" y1="92"  x2="450" y2="158"/>
+  <line class="e" x1="130" y1="137" x2="450" y2="25"/>
+  <line class="e" x1="130" y1="137" x2="450" y2="70"/>
+  <line class="e" x1="130" y1="137" x2="450" y2="115"/>
+  <line class="e" x1="130" y1="137" x2="450" y2="158"/>
+
+  <!-- ── BASE EDGES: hidden → output ── -->
+  <line class="e" x1="450" y1="25"  x2="770" y2="58"/>
+  <line class="e" x1="450" y1="25"  x2="770" y2="106"/>
+  <line class="e" x1="450" y1="25"  x2="770" y2="150"/>
+  <line class="e" x1="450" y1="70"  x2="770" y2="58"/>
+  <line class="e" x1="450" y1="70"  x2="770" y2="106"/>
+  <line class="e" x1="450" y1="70"  x2="770" y2="150"/>
+  <line class="e" x1="450" y1="115" x2="770" y2="58"/>
+  <line class="e" x1="450" y1="115" x2="770" y2="106"/>
+  <line class="e" x1="450" y1="115" x2="770" y2="150"/>
+  <line class="e" x1="450" y1="158" x2="770" y2="58"/>
+  <line class="e" x1="450" y1="158" x2="770" y2="106"/>
+  <line class="e" x1="450" y1="158" x2="770" y2="150"/>
+
+  <!-- ── SIGNALS: input → hidden ── -->
+  <line class="si" pathLength="100" x1="130" y1="47"  x2="450" y2="25"  style="animation:flow 2.5s linear 0s    infinite"/>
+  <line class="si" pathLength="100" x1="130" y1="47"  x2="450" y2="70"  style="animation:flow 2.5s linear .2s   infinite"/>
+  <line class="si" pathLength="100" x1="130" y1="47"  x2="450" y2="115" style="animation:flow 2.5s linear .4s   infinite"/>
+  <line class="si" pathLength="100" x1="130" y1="47"  x2="450" y2="158" style="animation:flow 2.5s linear .6s   infinite"/>
+  <line class="si" pathLength="100" x1="130" y1="92"  x2="450" y2="25"  style="animation:flow 2.5s linear .15s  infinite"/>
+  <line class="si" pathLength="100" x1="130" y1="92"  x2="450" y2="70"  style="animation:flow 2.5s linear .35s  infinite"/>
+  <line class="si" pathLength="100" x1="130" y1="92"  x2="450" y2="115" style="animation:flow 2.5s linear .55s  infinite"/>
+  <line class="si" pathLength="100" x1="130" y1="92"  x2="450" y2="158" style="animation:flow 2.5s linear .75s  infinite"/>
+  <line class="si" pathLength="100" x1="130" y1="137" x2="450" y2="25"  style="animation:flow 2.5s linear .3s   infinite"/>
+  <line class="si" pathLength="100" x1="130" y1="137" x2="450" y2="70"  style="animation:flow 2.5s linear .5s   infinite"/>
+  <line class="si" pathLength="100" x1="130" y1="137" x2="450" y2="115" style="animation:flow 2.5s linear .7s   infinite"/>
+  <line class="si" pathLength="100" x1="130" y1="137" x2="450" y2="158" style="animation:flow 2.5s linear .9s   infinite"/>
+
+  <!-- ── SIGNALS: hidden → output ── -->
+  <line class="sh" pathLength="100" x1="450" y1="25"  x2="770" y2="58"  style="animation:flow 2.5s linear 1.25s infinite"/>
+  <line class="sh" pathLength="100" x1="450" y1="25"  x2="770" y2="106" style="animation:flow 2.5s linear 1.4s  infinite"/>
+  <line class="sh" pathLength="100" x1="450" y1="25"  x2="770" y2="150" style="animation:flow 2.5s linear 1.55s infinite"/>
+  <line class="sh" pathLength="100" x1="450" y1="70"  x2="770" y2="58"  style="animation:flow 2.5s linear 1.3s  infinite"/>
+  <line class="sh" pathLength="100" x1="450" y1="70"  x2="770" y2="106" style="animation:flow 2.5s linear 1.45s infinite"/>
+  <line class="sh" pathLength="100" x1="450" y1="70"  x2="770" y2="150" style="animation:flow 2.5s linear 1.6s  infinite"/>
+  <line class="sh" pathLength="100" x1="450" y1="115" x2="770" y2="58"  style="animation:flow 2.5s linear 1.35s infinite"/>
+  <line class="sh" pathLength="100" x1="450" y1="115" x2="770" y2="106" style="animation:flow 2.5s linear 1.5s  infinite"/>
+  <line class="sh" pathLength="100" x1="450" y1="115" x2="770" y2="150" style="animation:flow 2.5s linear 1.65s infinite"/>
+  <line class="sh" pathLength="100" x1="450" y1="158" x2="770" y2="58"  style="animation:flow 2.5s linear 1.4s  infinite"/>
+  <line class="sh" pathLength="100" x1="450" y1="158" x2="770" y2="106" style="animation:flow 2.5s linear 1.55s infinite"/>
+  <line class="sh" pathLength="100" x1="450" y1="158" x2="770" y2="150" style="animation:flow 2.5s linear 1.7s  infinite"/>
+
+  <!-- ── INPUT NODES ── -->
+  <circle class="ni" cx="130" cy="47"  r="9" style="animation-delay: 0s"/>
+  <circle class="ni" cx="130" cy="92"  r="9" style="animation-delay: .3s"/>
+  <circle class="ni" cx="130" cy="137" r="9" style="animation-delay: .6s"/>
+
+  <!-- ── HIDDEN NODES ── -->
+  <circle class="nh" cx="450" cy="25"  r="9" style="animation-delay: .2s"/>
+  <circle class="nh" cx="450" cy="70"  r="9" style="animation-delay: .4s"/>
+  <circle class="nh" cx="450" cy="115" r="9" style="animation-delay: .6s"/>
+  <circle class="nh" cx="450" cy="158" r="9" style="animation-delay: .8s"/>
+
+  <!-- ── OUTPUT NODES ── -->
+  <circle class="no" cx="770" cy="58"  r="9" style="animation-delay: 1.3s"/>
+  <circle class="no" cx="770" cy="106" r="9" style="animation-delay: 1.5s"/>
+  <circle class="no" cx="770" cy="150" r="9" style="animation-delay: 1.7s"/>
+
+  <!-- ── LABELS ── -->
+  <text class="lbl" x="130" y="174">x  ·  input</text>
+  <text class="lbl" x="450" y="174">hidden  ·  σ(Wx+b)</text>
+  <text class="lbl" x="770" y="174">ŷ  ·  output</text>
+
+  <!-- ── ANNOTATIONS ── -->
+  <text class="ann" x="290" y="14">forward pass →</text>
+  <text class="tag" x="895" y="14">neural_net.forward(x)</text>
+</svg>
